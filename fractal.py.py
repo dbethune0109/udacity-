@@ -3,7 +3,7 @@ import turtle
 def draw_art():
 
     window = turtle.Screen()
-#Create the turtle Angie which draws a circlular fractal
+
 
     angie = turtle.Turtle()
     angie.shape("turtle")
